@@ -7,4 +7,4 @@
 #Tutorial:
 utilize as setas -> e <- para movimentar o carro e desvie dos objetos
 
-#Tecnologia usada: HTML5, CSS, JAVASCRIPT, CANVAS E JQUERY.
+#Tecnologia usada: HTML5, CSS E JAVASCRIPT.
